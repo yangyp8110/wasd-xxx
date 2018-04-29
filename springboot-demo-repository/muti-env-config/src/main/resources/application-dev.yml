@@ -1,0 +1,18 @@
+info:
+  build:
+    name: ${project.artifactId}
+    groupId: ${project.groupId}
+    artifactId: ${project.artifactId}
+    version: ${project.version}
+
+server:
+  port: 8081
+
+endpoints:
+  enabled: true
+  sensitive: false
+
+data:
+  test:
+    envName: dev
+    envconfig: 127.0.0.1:8081

@@ -1,0 +1,1 @@
+java -jar muti-env-config.jar --spring.profiles.active=dev
