@@ -10,6 +10,7 @@
   <version>1.0-SNAPSHOT</version>
   <modules>
     <module>muti-env-config</module>
+    <module>webapi-version-control</module>
   </modules>
 
   <name>demo.repository</name>
