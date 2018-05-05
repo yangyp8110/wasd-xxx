@@ -1,0 +1,17 @@
+#spring:
+#  profiles:
+#    active: dev
+
+info:
+  build:
+    name: ${project.artifactId}
+    groupId: ${project.groupId}
+    artifactId: ${project.artifactId}
+    version: ${project.version}
+
+endpoints:
+  enabled: true
+  sensitive: false
+
+server:
+  port: 8090
