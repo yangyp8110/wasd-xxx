@@ -1,0 +1,5 @@
+{
+  "base_package": "com.demo.package",
+  "base_entity_package": "com.demo.package.entity",
+  "base_mapper_package": "com.demo.package.mapper"
+}
